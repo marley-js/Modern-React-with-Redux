@@ -24,7 +24,16 @@ https://github.com/StephenGrider/ReduxSimpleStarter
 
 <br/>
 
+## 02. Ajax Requests with React
+
 ![Application](/img/pic01.png?raw=true)
+
+    $ npm install --save youtube-api-search
+    $ npm install --save lodash
+
+<br/>
+
+![Application](/img/pic02.png?raw=true)
 
 ---
 
